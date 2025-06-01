@@ -22,29 +22,52 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 -->
 
- 
- 👋 Hi there! 
- 
- I'm Shubham Singh
+<h1 align="left">Hi there! 👋</h1>
+<h1 align="left">🚀𝙄'am 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 𝙎𝙄𝙉𝙂𝙃 🚀</h1>
+<h3 align="left">🌐 Web Developer |</h3>
+### 👨‍💻 About Me
+<h3 align="left"> 💻 Currently Learning React.js |
+<h3 align="left">🎯 Goal: Become a skilled **MERN Stack Developer** </h3>
+<h3 align="left">💡 Love building clean, user-friendly, and dynamic web apps. </h3>
+<h3 align="left">📚 Exploring modern tech to craft real-world digital solutions . </h3>
 
-🚀 Passionate Web Developer | Currently learning React.js  .
-🎯 Goal: Become a skilled **MERN Stack Developer**  
-💡 Love building clean, user-friendly, and dynamic web apps  
-📚 Exploring modern tech to craft real-world digital solutions  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/developershubhamsingh/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Badge" />
+</p>
+
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=0e75b6&style=flat)  
-![Visitor Count](https://profile-counter.glitch.me/developershubhamsingh/count.svg)  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developershubhamsingh&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight)
+### 🤝 Connect With Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/developershubhamsingh/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developershubhamsingh&theme=tokyonight)
+---
+
+<p align="center">
+  🚀 Thank you for visiting my profile! Let's build something amazing together.
+</p>
 
 
 <div>
