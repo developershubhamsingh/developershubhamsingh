@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <h5 align="left">Hi there! 👋</h5>
-<h3 align="left">🚀𝙄'am 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 𝙎𝙄𝙉𝙂𝙃 🚀</h3>
+<h3 align="left">𝙄'am 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 𝙎𝙄𝙉𝙂𝙃 </h3>
 <h4 align="left">🌐 Web Developer |</h4>
 ### 👨‍💻 About Me
 <h4 align="left"> 💻 Currently Learning React.js |</h4>
