@@ -23,19 +23,28 @@ Here are some ideas to get you started:
 -->
 
  
- Hi ! 👋 
- I'm **Shubham Singh**,
- I'm Website Developer currently learning React.js and aiming to become a 
- proficient MERN Stack Developer.
+ 👋 Hi there! 
+ 
+ I'm Shubham Singh
 
-🚀 I love building responsive, user-friendly web applications.  
-💡 Always curious to explore new technologies and turn ideas into reality.  
-📚 Currently focused on enhancing my front-end skills with React and soon diving deeper into Node.js, Express, and MongoDB.  
-🎯 Goal: To become a skilled Full Stack Developer and contribute to impactful tech projects.
+🚀 Passionate Web Developer | Currently learning React.js  .
+🎯 Goal: Become a skilled **MERN Stack Developer**  
+💡 Love building clean, user-friendly, and dynamic web apps  
+📚 Exploring modern tech to craft real-world digital solutions  
 
-Let's connect and build something amazing! 💼
+---
 
-![Visitor Count](https://profile-counter.glitch.me/developershubhamsingh/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=0e75b6&style=flat)  
+![Visitor Count](https://profile-counter.glitch.me/developershubhamsingh/count.svg)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh)
+
+---
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developershubhamsingh&theme=tokyonight)
 
 
 <div>
