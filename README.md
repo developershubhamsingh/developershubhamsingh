@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 -->
 
-<h1 align="left">Hi there! 👋</h1>
-<h1 align="left">🚀𝙄'am 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 𝙎𝙄𝙉𝙂𝙃 🚀</h1>
-<h3 align="left">🌐 Web Developer |</h3>
+<h5 align="left">Hi there! 👋</h5>
+<h3 align="left">🚀𝙄'am 𝙎𝙃𝙐𝘽𝙃𝘼𝙈 𝙎𝙄𝙉𝙂𝙃 🚀</h3>
+<h4 align="left">🌐 Web Developer |</h4>
 ### 👨‍💻 About Me
-<h3 align="left"> 💻 Currently Learning React.js |
-<h3 align="left">🎯 Goal: Become a skilled **MERN Stack Developer** </h3>
-<h3 align="left">💡 Love building clean, user-friendly, and dynamic web apps. </h3>
-<h3 align="left">📚 Exploring modern tech to craft real-world digital solutions . </h3>
-
+<h4 align="left"> 💻 Currently Learning React.js |</h4>
+<h4 align="left">🎯 Goal: Become a skilled **MERN Stack Developer** </h4>
+<h4 align="left">💡 Love building clean, user-friendly, and dynamic web apps. </h4>
+<h4 align="left">📚 Exploring modern tech to craft real-world digital solutions . </h4>
+<hr/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <img src="https://profile-counter.glitch.me/developershubhamsingh/count.svg" alt="Visitor Count" />
