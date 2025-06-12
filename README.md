@@ -1,8 +1,7 @@
-<h5 align="left"> Hi 👋</h5>
-<h3 align="left" font-size="21px"> I'am Shubham Singh</h3>
+<h5 align="left"> Hello 👋</h5>
+<h3 align="left"> I'am Shubham Singh </h3>
 <h4 align="left">🌐 Web Developer |</h4>
-### 👨‍💻 About Me
-<p> 💻 Currently Learning React.js | 
+ 💻 Currently Learning React.js | 
  🎯 Goal: Become a skilled **MERN Stack Developer**  
  💡 Love building clean, user-friendly, and dynamic web apps. 
  📚 Exploring modern tech to craft real-world digital solutions . </p>
