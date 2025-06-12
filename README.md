@@ -1,35 +1,12 @@
- 
 
-<!--
-**developershubhamsingh/developershubhamsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Hi Developers 👋
-
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
--->
-
-<h5 align="left"> Hi there! 👋</h5>
-<h3 align="left"> 𝙄'am Shubham Singh </h3>
+<h5 align="left"> Hi 👋</h5>
+<h3 align="left"> I'am Shubham Singh </h3>
 <h4 align="left">🌐 Web Developer |</h4>
 ### 👨‍💻 About Me
-<h4 align="left"> 💻 Currently Learning React.js |</h4>
-<h4 align="left">🎯 Goal: Become a skilled **MERN Stack Developer** </h4>
-<h4 align="left">💡 Love building clean, user-friendly, and dynamic web apps. </h4>
-<h4 align="left">📚 Exploring modern tech to craft real-world digital solutions . </h4>
+<p> 💻 Currently Learning React.js | 
+ 🎯 Goal: Become a skilled **MERN Stack Developer**  
+ 💡 Love building clean, user-friendly, and dynamic web apps. 
+ 📚 Exploring modern tech to craft real-world digital solutions . </p>
 <hr/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
