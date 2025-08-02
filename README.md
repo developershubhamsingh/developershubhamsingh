@@ -3,12 +3,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
-<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Count Badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Badge" /> -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Badge" />
 </p>
 
 ## 🛠️ Languages and Tools
-
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
@@ -17,7 +15,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 
 ## 📂 Projects
-
 - [Project Name 1](https://github.com/developershubhamsingh/project1) – A brief description of what it does.
 - [Project Name 2](https://github.com/developershubhamsingh/project2) – Another project with a quick summary.
 
@@ -25,11 +22,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
 </p>
- <p align="center">
-## 🔰 Top Languages Used
+
+ ## 🔰 Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=radical)
-</p>
-## 🏆 GitHub Trophies
+ 
+ ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=developershubhamsingh&theme=radical&column=4&margin-w=10&margin-h=15)
 
 ## 📊 Streak Stats
