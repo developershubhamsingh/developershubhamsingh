@@ -2,7 +2,7 @@
 <p>I’m Shubham Singh, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently, I’m learning both React.js and Node.js to build dynamic, full-stack web applications. My goal is to become a skilled MERN Stack Developer who can handle complete end-to-end digital solutions. I enjoy bringing ideas to life through code and focus on writing clean, maintainable code with strong attention to design, performance, and user experience. I’m continuously learning, building, and evolving, staying updated with the latest technologies and trends in modern web development.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
- ![Visitor Count](https://komarev.com/ghpvc/?username=developershubhamsingh&label=Visitors&color=blue&style=flat)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Count Badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=developershubhamsingh" alt="Visitor Badge" />
 </p>
 
