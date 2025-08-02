@@ -1,11 +1,5 @@
 <h5 align="left"> Hello 👋</h5>
-<h3 align="left"> I'am Shubham Singh </h3>
-<h4 align="left">🌐 Web Developer |</h4>
- 💻 Currently Learning React.js | 
- 🎯 Goal: Become a skilled **MERN Stack Developer**  
- 💡 Love building clean, user-friendly, and dynamic web apps. 
- 📚 Exploring modern tech to craft real-world digital solutions . </p>
-<hr/>
+<p>I’m Shubham Singh, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently, I’m learning both React.js and Node.js to build dynamic, full-stack web applications. My goal is to become a skilled MERN Stack Developer who can handle complete end-to-end digital solutions. I enjoy bringing ideas to life through code and focus on writing clean, maintainable code with strong attention to design, performance, and user experience. I’m continuously learning, building, and evolving, staying updated with the latest technologies and trends in modern web development.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developershubhamsingh&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <img src="https://profile-counter.glitch.me/developershubhamsingh/count.svg" alt="Visitor Count" />
