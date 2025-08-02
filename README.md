@@ -14,18 +14,15 @@
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 
-## 📂 Projects
-- [Project Name 1](https://github.com/developershubhamsingh/project1) – A brief description of what it does.
-- [Project Name 2](https://github.com/developershubhamsingh/project2) – Another project with a quick summary.
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
 </p>
 
  ## 🔰 Top Languages Used
+ <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=radical)
- 
+ </p>
  ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=developershubhamsingh&theme=radical&column=4&margin-w=10&margin-h=15)
 
