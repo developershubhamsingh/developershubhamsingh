@@ -20,9 +20,8 @@
 </p>
 
  ## 🔰 Top Languages Used
- <p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=radical)
- </p>
+ 
  ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=developershubhamsingh&theme=radical&column=4&margin-w=10&margin-h=15)
 
