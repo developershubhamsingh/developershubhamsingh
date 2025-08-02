@@ -33,12 +33,11 @@
 ## 🐍 Snake Contribution Graph
  ![Snake animation](https://github.com/developershubhamsingh/developershubhamsingh/blob/output/github-contribution-grid-snake.svg)
  
-## 🔰 Contact / Connect with Me
- <p align="center">
+## 🔰 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/developershubhamsingh)
-</p>
+
  <p align="center">
   Thank you for visiting my profile! Let's build something amazing together.
 </p>
