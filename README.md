@@ -30,9 +30,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=developershubhamsingh&" alt="streak-stats" />
 </p>
 
-## 🐍 Snake Contribution Graph
- ![Snake animation](https://github.com/developershubhamsingh/developershubhamsingh/blob/output/github-contribution-grid-snake.svg)
- 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/developershubhamsingh/developershubhamsingh/blob/output/snake.svg)
+
 ## 🔰 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
   [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
