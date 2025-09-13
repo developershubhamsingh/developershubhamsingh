@@ -39,7 +39,7 @@ I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=developershubhamsingh&theme=dark&hide_border=false" alt="streak-stats" />
 </p>
 
-<h2 align="center">🐍 Contribution Snake (Game Mode)</h2>
+<h2 align="center">🐍 Contribution Snake </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/developershubhamsingh/developershubhamsingh/gh-pages/snake.svg" alt="Snake animation" style="max-width:80%;" />
 </p>
