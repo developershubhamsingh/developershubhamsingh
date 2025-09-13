@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:                # हर दिन 00:00 UTC पर run होगा
+    - cron: "0 0 * * *"
+  workflow_dispatch:       # manually run करने का option
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: developershubhamsingh
+          outputs: dist/snake.svg
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
