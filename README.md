@@ -18,8 +18,8 @@
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
 </p>
-<p  align="center">
- ## 🔰 Top Languages Used
+## 🔰 Top Languages Used
+  <p  align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=radical)
  </p> 
  
