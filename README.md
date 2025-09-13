@@ -55,6 +55,6 @@ I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experi
 </p>
 
 <p align="center">
-  <b>🎉 Thank you for visiting my profile! 🚀</b><br>
-  <i>Let's build something <span style="color:#ff69b4;">amazing</span> together! 💻🎮</i>
+  <b>Thank you for visiting my profile! </b><br>
+  <b>Let's build something <span style="color:#ff69b4;">amazing</span> together! </b>
 </p>
