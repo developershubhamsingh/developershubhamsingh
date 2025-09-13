@@ -15,7 +15,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
 </p>
 
