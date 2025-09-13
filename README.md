@@ -11,12 +11,12 @@ I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experi
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" style="border-radius:6px;" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" style="border-radius:6px;" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" style="border-radius:6px;" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" style="border-radius:6px;" />&nbsp;
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=61DAFB" style="border-radius:6px;" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white" style="border-radius:6px;" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
