@@ -11,13 +11,14 @@ I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experi
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white" style="border-radius:6px;" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" style="border-radius:6px;" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" style="border-radius:6px;" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" style="border-radius:6px;" />&nbsp;
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=61DAFB" style="border-radius:6px;" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white" style="border-radius:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="border-radius:8px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="border-radius:8px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="border-radius:8px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" style="border-radius:8px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="border-radius:8px;" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="border-radius:8px;" />
 </p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
