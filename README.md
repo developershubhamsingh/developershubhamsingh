@@ -1,6 +1,6 @@
-<h1 align="left">Hello 👋</h1>
+<h3 align="left">Hello 👋</h3>
 
-<p align="center">
+<p align="left">
 I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently learning React.js & Node.js for full-stack MERN applications. Focused on clean code, great UX, and performance.
 </p>
 
@@ -42,9 +42,6 @@ I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experi
 <h2 align="center">🐍 Contribution Snake (Game Mode)</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/developershubhamsingh/developershubhamsingh/gh-pages/snake.svg" alt="Snake animation" style="max-width:80%;" />
-</p>
-<p align="center">
-  ⚡ Snake speed increased & head color is red for game-like vibe! 🐍🔥
 </p>
 
 <h2 align="center">🔰 Connect with Me</h2>
