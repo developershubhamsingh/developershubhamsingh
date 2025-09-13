@@ -31,7 +31,7 @@
 </p>
 
 ### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/developershubhamsingh/developershubhamsingh/gh-pages/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/developershubhamsingh/developershubhamsingh/gh-pages/snake.svg)
 
 
 ## 🔰 Connect with Me
