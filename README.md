@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="left">Hello 👋</h1>
 
 <p align="center">
-I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently learning React.js & Node.js for full-stack MERN applications. Focused on clean code, great UX, and performance. 🚀
+I’m <b>Shubham Singh</b>, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently learning React.js & Node.js for full-stack MERN applications. Focused on clean code, great UX, and performance.
 </p>
 
 <p align="center">
