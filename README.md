@@ -1,4 +1,4 @@
-<h5 align="left"> Hello 👋</h5>
+<h5 align="center"> Hello 👋</h5>
 <p>I’m Shubham Singh, a passionate Frontend Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, JavaScript, and Bootstrap. Currently, I’m learning both React.js and Node.js to build dynamic, full-stack web applications. My goal is to become a skilled MERN Stack Developer who can handle complete end-to-end digital solutions. I enjoy bringing ideas to life through code and focus on writing clean, maintainable code with strong attention to design, performance, and user experience. I’m continuously learning, building, and evolving, staying updated with the latest technologies and trends in modern web development.</p>
 
 <p align="center">
@@ -15,12 +15,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 
 ## 📊 GitHub Stats
-<p>
+<p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developershubhamsingh&show_icons=true&theme=tokyonight" alt="Shubham's GitHub Stats" />
 </p>
-
+<p  align="center">
  ## 🔰 Top Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developershubhamsingh&layout=compact&theme=radical)
+ </p> 
  
  ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=developershubhamsingh&theme=radical&column=4&margin-w=10&margin-h=15)
