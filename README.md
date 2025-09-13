@@ -31,8 +31,8 @@
 </p>
 
 ### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/developershubhamsingh/developershubhamsingh/gh-pages/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/developershubhamsingh/developershubhamsingh/blob/output/snake.svg)
 
 ## 🔰 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
